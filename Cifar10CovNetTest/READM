@@ -1,0 +1,5 @@
+直接运行 MyCIFAR10ConvNet.py ，程序自动下载cifar10数据集到默认路径下,linux下是/tmp/cifar10_data。但是如果显示指定路径的话，有可能会报错，这时候改改路径就行
+
+Cifar10Sample.py是从网上复制的，我的网络结构和这个基本一样。
+
+log.txt是某次运行时程序输出，loss.jpg是loss画图

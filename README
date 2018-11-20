@@ -1,0 +1,3 @@
+Cifar10CovNetTest 文件夹： CNN识别cifar10
+MNISTTEST 文件夹：logistics regression、FCN、CNN识别手写字体
+PlotAndRegularTest 文件夹： 自己写着玩玩，主要测试一下matplotlib和正则表达式，和深度学习无关
